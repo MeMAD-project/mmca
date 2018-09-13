@@ -1,0 +1,3 @@
+[submodule "picsom"]
+	path = picsom
+	url = https://github.com/aalto-cbir/PicSOM
