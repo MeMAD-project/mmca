@@ -4,3 +4,6 @@
 [submodule "inaSpeechSegmenter"]
 	path = inaSpeechSegmenter
 	url = https://github.com/ina-foss/inaSpeechSegmenter
+[submodule "DeepCaption"]
+	path = DeepCaption
+	url = https://github.com/aalto-cbir/DeepCaption
