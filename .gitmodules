@@ -10,3 +10,6 @@
 [submodule "OpenNMT-py"]
 	path = OpenNMT-py
 	url = https://github.com/Waino/OpenNMT-py.git
+[submodule "asr-finnish"]
+	path = asr-finnish
+	url = git@github.com:psmit/char-fin-2017.git
