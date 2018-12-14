@@ -8,6 +8,7 @@ The library consists of the following submodules:
  * Statistical tools for dataset analysis: <https://github.com/MeMAD-project/statistical-tools>
  * Multi-modal image caption translation: <https://github.com/Waino/OpenNMT-py/tree/develop_mmod>
  * Speech recognition training scripts for Finnish: <https://github.com/psmit/char-fin-2017>
+ * Audio event classification: <https://github.com/ZhicunXu/AudioTagger>
  
 ## EURECOM
  * add your library and: its git/etc address here
