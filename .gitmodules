@@ -7,3 +7,6 @@
 [submodule "DeepCaption"]
 	path = DeepCaption
 	url = https://github.com/aalto-cbir/DeepCaption
+[submodule "OpenNMT-py"]
+	path = OpenNMT-py
+	url = https://github.com/Waino/OpenNMT-py.git

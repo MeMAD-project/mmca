@@ -6,6 +6,7 @@ The library consists of the following submodules:
  * PicSOM: <https://github.com/aalto-cbir/PicSOM>
  * DeepCaption: <https://github.com/aalto-cbir/DeepCaption>
  * Statistical tools for dataset analysis: <https://github.com/MeMAD-project/statistical-tools>
+ * Multi-modal image caption translation: <https://github.com/Waino/OpenNMT-py/tree/develop_mmod>
  
 ## EURECOM
  * add your library and: its git/etc address here
