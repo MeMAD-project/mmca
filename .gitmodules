@@ -13,3 +13,6 @@
 [submodule "asr-finnish"]
 	path = asr-finnish
 	url = git@github.com:psmit/char-fin-2017.git
+[submodule "AudioTagger"]
+	path = AudioTagger
+	url = https://github.com/ZhicunXu/AudioTagger.git
