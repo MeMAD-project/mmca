@@ -10,12 +10,12 @@
 [submodule "OpenNMT-py"]
 	path = OpenNMT-py
 	url = https://github.com/Waino/OpenNMT-py.git
-[submodule "asr-finnish"]
-	path = asr-finnish
-	url = https://github.com/psmit/char-fin-2017.git
 [submodule "AudioTagger"]
 	path = AudioTagger
 	url = https://github.com/ZhicunXu/AudioTagger.git
 [submodule "statistical-tools"]
 	path = statistical-tools
 	url = https://github.com/MeMAD-project/statistical-tools
+[submodule "asr-finnish"]
+	path = asr-finnish
+	url = https://github.com/psmit/char-fin-2017.git
