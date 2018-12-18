@@ -16,3 +16,6 @@
 [submodule "statistical-tools"]
 	path = statistical-tools
 	url = https://github.com/MeMAD-project/statistical-tools
+[submodule "asr-finnish"]
+	path = asr-finnish
+	url = https://github.com/psmit/char-fin-2017
