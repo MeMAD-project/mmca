@@ -8,7 +8,7 @@ the project.
 
 The collection consists of the following submodules:
 
-## Aalto
+## AALTO
  * PicSOM: <https://github.com/aalto-cbir/PicSOM>
  * DeepCaption: <https://github.com/aalto-cbir/DeepCaption>
  * Statistical tools for caption dataset analysis: <https://github.com/MeMAD-project/statistical-tools>
