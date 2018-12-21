@@ -24,4 +24,6 @@ The collection consists of the following submodules:
 
 ---
 
-![EU emblem](euflag.png) | MeMAD project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 780069. This document has been produced by theMeMAD project. The content in this document represents the views of the authors, and the European Commission has no liability in respect of the content.
+![EU emblem](euflag.png) | MeMAD project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 780069. This document has been produced by the MeMAD project. The content in this document represents the views of the authors, and the European Commission has no liability in respect of the content.
+------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
