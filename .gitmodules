@@ -19,9 +19,6 @@
 [submodule "asr-finnish"]
 	path = asr-finnish
 	url = https://github.com/psmit/char-fin-2017
-[submodule "EUR-FaceRec"]
-	path = EUR-FaceRec
-	url = https://github.com/MeMAD-project/EUR-FaceRec.git
 [submodule "rdf-converter"]
 	path = rdf-converter
 	url = https://github.com/MeMAD-project/rdf-converter.git
