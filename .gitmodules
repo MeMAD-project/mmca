@@ -22,3 +22,6 @@
 [submodule "rdf-converter"]
 	path = rdf-converter
 	url = https://github.com/MeMAD-project/rdf-converter.git
+[submodule "EUR-FaceRec"]
+	path = EUR-FaceRec
+	url = git@github.com:MeMAD-project/EUR-FaceRec.git
