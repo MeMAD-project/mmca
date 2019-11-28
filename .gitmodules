@@ -24,4 +24,4 @@
 	url = https://github.com/MeMAD-project/rdf-converter.git
 [submodule "EUR-FaceRec"]
 	path = EUR-FaceRec
-	url = git@github.com:MeMAD-project/EUR-FaceRec.git
+	url = https://github.com/D2KLab/Face-Celebrity-Recognition.git
