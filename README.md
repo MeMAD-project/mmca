@@ -17,7 +17,7 @@ The collection consists of the following submodules:
  * Audio event classification: <https://github.com/ZhicunXu/AudioTagger>
  
 ## EURECOM
- * EUR-FaceRec: <https://github.com/MeMAD-project/EUR-FaceRec.git>
+ * Face Celebrity Recognition: <https://github.com/D2KLab/Face-Celebrity-Recognition.git>
 
 ## INA
  * inaSpeechSegmenter: <https://github.com/ina-foss/inaSpeechSegmenter>
