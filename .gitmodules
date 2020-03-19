@@ -25,3 +25,6 @@
 [submodule "EUR-FaceRec"]
 	path = EUR-FaceRec
 	url = https://github.com/D2KLab/Face-Celebrity-Recognition.git
+[submodule "visual-storytelling"]
+	path = visual-storytelling
+	url = https://github.com/aalto-cbir/visual-storytelling
