@@ -12,7 +12,7 @@
 	url = https://github.com/Waino/OpenNMT-py.git
 [submodule "AudioTagger"]
 	path = AudioTagger
-	url = https://github.com/ZhicunXu/AudioTagger.git
+	url = git@github.com:MeMAD-project/AudioTagger.git
 [submodule "statistical-tools"]
 	path = statistical-tools
 	url = https://github.com/MeMAD-project/statistical-tools
