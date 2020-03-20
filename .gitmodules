@@ -28,3 +28,6 @@
 [submodule "visual-storytelling"]
 	path = visual-storytelling
 	url = https://github.com/aalto-cbir/visual-storytelling
+[submodule "avsr"]
+	path = avsr
+	url = https://github.com/aalto-speech/avsr
