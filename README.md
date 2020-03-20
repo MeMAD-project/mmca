@@ -11,11 +11,12 @@ The collection consists of the following submodules:
 ## AALTO
  * PicSOM: <https://github.com/aalto-cbir/PicSOM>
  * DeepCaption: <https://github.com/aalto-cbir/DeepCaption>
- * visual-storytelling: <https://github.com/aalto-cbir/visual-storytelling>
- * Statistical tools for caption dataset analysis: <https://github.com/MeMAD-project/statistical-tools>
- * Multi-modal image caption translation: <https://github.com/Waino/OpenNMT-py/tree/develop_mmod>
+ * Visual storytelling: <https://github.com/aalto-cbir/visual-storytelling>
  * Speech recognition training scripts for Finnish: <https://github.com/psmit/char-fin-2017>
+ * Multimodal ASR <https://github.com/aalto-speech/avsr>
  * Audio event classification: <https://github.com/MeMAD-project/AudioTagger>
+ * Multi-modal image caption translation: <https://github.com/Waino/OpenNMT-py/tree/develop_mmod>
+ * Statistical tools for caption dataset analysis: <https://github.com/MeMAD-project/statistical-tools>
  
 ## EURECOM
  * Face Celebrity Recognition: <https://github.com/D2KLab/Face-Celebrity-Recognition.git>
