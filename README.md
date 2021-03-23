@@ -27,7 +27,9 @@ The collection consists of the following submodules:
  * inaSpeechSegmenter: <https://github.com/ina-foss/inaSpeechSegmenter>
 
 ## University of Helsinki
- * [Research output from work package 4](https://github.com/MeMAD-project/workpackages)
+
+[Research output from work package 4](https://github.com/MeMAD-project/workpackages):
+
  * [Subtitle translation](https://github.com/MeMAD-project/subtitle-translation)
  * [Tools for converting and aligning subtitles](https://github.com/MeMAD-project/subalign)
  * [Speech translation](https://github.com/MeMAD-project/speech-translation)
