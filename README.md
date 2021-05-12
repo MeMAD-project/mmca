@@ -31,7 +31,7 @@ The collection consists of the following submodules:
  * Subtitle translation: <https://github.com/MeMAD-project/subtitle-translation>
  * Tools for converting and aligning subtitles: <https://github.com/MeMAD-project/subalign>
  * Speech translation: <https://github.com/MeMAD-project/speech-translation>
- * Discourse-aware machine transltion: <https://github.com/MeMAD-project/doclevel-translation>
+ * Discourse-aware machine translation: <https://github.com/MeMAD-project/doclevel-translation>
  * Cross-lingual content retrieval: <https://github.com/MeMAD-project/cross-lingual-retrieval>
  * OPUS-MT: MT servers and pre-trained translation models: <https://github.com/MeMAD-project/Opus-MT>
  * OPUS-MT-train: MT training procedures and pipelines: <https://github.com/MeMAD-project/OPUS-MT-train>
