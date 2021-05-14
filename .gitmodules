@@ -31,9 +31,6 @@
 [submodule "SphereDiar"]
 	path = SphereDiar
 	url = https://github.com/Livefull/SphereDiar
-[submodule "espnet-old-speaker-aware"]
-	path = espnet-old-speaker-aware
-	url = https://github.com/Gastron/espnet-old-speaker-aware
 [submodule "inaFaceGender"]
 	path = inaFaceGender
 	url = https://github.com/ina-foss/inaFaceGender
