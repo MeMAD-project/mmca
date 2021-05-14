@@ -23,7 +23,7 @@
 	path = rdf-converter
 	url = https://github.com/MeMAD-project/rdf-converter
 [submodule "FaceRec"]
-	path = EUR-FaceRec
+	path = FaceRec
 	url = https://github.com/D2KLab/FaceRec
 [submodule "visual-storytelling"]
 	path = visual-storytelling
