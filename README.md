@@ -21,7 +21,7 @@ The collection consists of the following submodules:
  * Statistical tools for caption dataset analysis: <https://github.com/MeMAD-project/statistical-tools>
  
 ## EURECOM
- * Face Celebrity Recognition: <https://github.com/D2KLab/Face-Celebrity-Recognition.git>
+ * Face Recognition: <https://github.com/D2KLab/FaceRec>
 
 ## INA
  * inaSpeechSegmenter: <https://github.com/ina-foss/inaSpeechSegmenter>
