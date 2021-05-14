@@ -13,19 +13,26 @@ The collection consists of the following submodules:
  * DeepCaption: <https://github.com/aalto-cbir/DeepCaption>
  * Visual storytelling: <https://github.com/aalto-cbir/visual-storytelling>
  * Speech recognition training scripts for Finnish: <https://github.com/psmit/char-fin-2017>
- * Speaker-aware training: <https://github.com/Gastron/espnet-old-speaker-aware>
+ * Speaker-aware ASR training: <https://github.com/MeMAD-project/speaker-aware-attention-asr>
  * SphereDiar: <https://github.com/Livefull/SphereDiar>
  * Multimodal ASR: <https://github.com/aalto-speech/avsr>
+ * Spoken language identification: <https://github.com/py-lidbox/lidbox>
  * Audio event classification: <https://github.com/MeMAD-project/AudioTagger>
- * Multi-modal image caption translation: <https://github.com/Waino/OpenNMT-py/tree/develop_mmod>
+ * Multi-modal image caption translation: <https://github.com/MeMAD-project/image-caption-translation>
  * Statistical tools for caption dataset analysis: <https://github.com/MeMAD-project/statistical-tools>
  
 ## EURECOM
- * Face Recognition: <https://github.com/D2KLab/FaceRec>
+ * Face recognition: <https://github.com/D2KLab/FaceRec>
+ * Media merorability in MediaEval 2019-20: <https://github.com/MeMAD-project/media-memorability>
+ * Video content segmentation: <https://github.com/MeMAD-project/content-segmentation>
+ * MeMAD metadata converter: <https://github.com/MeMAD-project/rdf-converter>
+ * MeMAD Knowledge Graph API: <https://github.com/MeMAD-project/api>
+ * MeMAD Explorer: <https://github.com/MeMAD-project/explorer>
+ * MeMAD metadata interchange formats: <https://github.com/MeMAD-project/interchange-formats>
 
 ## INA
  * inaSpeechSegmenter: <https://github.com/ina-foss/inaSpeechSegmenter>
- * inafaceGender: <https://github.com/ina-foss/inaFaceGender>
+ * inaFaceGender: <https://github.com/ina-foss/inaFaceGender>
 
 ## University of Helsinki
 
