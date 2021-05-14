@@ -40,3 +40,69 @@
 [submodule "FaceRec"]
 	path = FaceRec
 	url = https://github.com/D2KLab/FaceRec
+[submodule "media-memorability"]
+	path = media-memorability
+	url = https://github.com/MeMAD-project/media-memorability
+[submodule "content-segmentation"]
+	path = content-segmentation
+	url = https://github.com/MeMAD-project/content-segmentation
+[submodule "cross-lingual-retrieval"]
+	path = cross-lingual-retrieval
+	url = https://github.com/MeMAD-project/cross-lingual-retrieval
+[submodule "subtitle-translation"]
+	path = subtitle-translation
+	url = https://github.com/MeMAD-project/subtitle-translation
+[submodule "OPUS-MT-eval"]
+	path = OPUS-MT-eval
+	url = https://github.com/MeMAD-project/OPUS-MT-eval
+[submodule "OpusTools-perl"]
+	path = OpusTools-perl
+	url = https://github.com/MeMAD-project/OpusTools-perl
+[submodule "OpusTools"]
+	path = OpusTools
+	url = https://github.com/MeMAD-project/OpusTools
+[submodule "subalign"]
+	path = subalign
+	url = https://github.com/MeMAD-project/subalign
+[submodule "OPUS-translator"]
+	path = OPUS-translator
+	url = https://github.com/MeMAD-project/OPUS-translator
+[submodule "image-caption-translation"]
+	path = image-caption-translation
+	url = https://github.com/MeMAD-project/image-caption-translation
+[submodule "speech-translation"]
+	path = speech-translation
+	url = https://github.com/MeMAD-project/speech-translation
+[submodule "OPUS-MT-train"]
+	path = OPUS-MT-train
+	url = https://github.com/MeMAD-project/OPUS-MT-train
+[submodule "OPUS-MT"]
+	path = OPUS-MT
+	url = https://github.com/MeMAD-project/OPUS-MT
+[submodule "OPUS-CAT"]
+	path = OPUS-CAT
+	url = https://github.com/MeMAD-project/OPUS-CAT
+[submodule "explorer"]
+	path = explorer
+	url = https://github.com/MeMAD-project/explorer
+[submodule "Tatoeba-Challenge"]
+	path = Tatoeba-Challenge
+	url = https://github.com/MeMAD-project/Tatoeba-Challenge
+[submodule "doclevel-translation"]
+	path = doclevel-translation
+	url = https://github.com/MeMAD-project/doclevel-translation
+[submodule "api"]
+	path = api
+	url = https://github.com/MeMAD-project/api
+[submodule "interchange-formats"]
+	path = interchange-formats
+	url = https://github.com/MeMAD-project/interchange-formats
+[submodule "ner-in-translation"]
+	path = ner-in-translation
+	url = https://github.com/MeMAD-project/ner-in-translation
+[submodule "speaker-aware-attention-asr"]
+	path = speaker-aware-attention-asr
+	url = https://github.com/MeMAD-project/speaker-aware-attention-asr
+[submodule "lidbox"]
+	path = lidbox
+	url = https://github.com/py-lidbox/lidbox
