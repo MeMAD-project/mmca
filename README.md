@@ -25,6 +25,7 @@ The collection consists of the following submodules:
 
 ## INA
  * inaSpeechSegmenter: <https://github.com/ina-foss/inaSpeechSegmenter>
+ * inafaceGender: <https://github.com/ina-foss/inaFaceGender>
 
 ## University of Helsinki
 
