@@ -37,3 +37,6 @@
 [submodule "inaFaceGender"]
 	path = inaFaceGender
 	url = https://github.com/ina-foss/inaFaceGender
+[submodule "FaceRec"]
+	path = FaceRec
+	url = https://github.com/D2KLab/FaceRec
