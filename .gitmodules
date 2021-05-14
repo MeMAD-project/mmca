@@ -94,9 +94,6 @@
 [submodule "interchange-formats"]
 	path = interchange-formats
 	url = https://github.com/MeMAD-project/interchange-formats
-[submodule "ner-in-translation"]
-	path = ner-in-translation
-	url = https://github.com/MeMAD-project/ner-in-translation
 [submodule "speaker-aware-attention-asr"]
 	path = speaker-aware-attention-asr
 	url = https://github.com/MeMAD-project/speaker-aware-attention-asr
