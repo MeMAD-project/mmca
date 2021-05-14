@@ -23,7 +23,7 @@ The collection consists of the following submodules:
  
 ## EURECOM
  * Face recognition: <https://github.com/D2KLab/FaceRec>
- * Media merorability in MediaEval 2019-20: <https://github.com/MeMAD-project/media-memorability>
+ * Media memorability in MediaEval 2019-20: <https://github.com/MeMAD-project/media-memorability>
  * Video content segmentation: <https://github.com/MeMAD-project/content-segmentation>
  * MeMAD metadata converter: <https://github.com/MeMAD-project/rdf-converter>
  * MeMAD Knowledge Graph API: <https://github.com/MeMAD-project/api>
