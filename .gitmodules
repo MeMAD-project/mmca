@@ -22,9 +22,6 @@
 [submodule "rdf-converter"]
 	path = rdf-converter
 	url = https://github.com/MeMAD-project/rdf-converter
-[submodule "FaceRec"]
-	path = FaceRec
-	url = https://github.com/D2KLab/FaceRec
 [submodule "visual-storytelling"]
 	path = visual-storytelling
 	url = https://github.com/aalto-cbir/visual-storytelling
