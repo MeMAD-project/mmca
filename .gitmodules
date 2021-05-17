@@ -100,3 +100,6 @@
 [submodule "lidbox"]
 	path = lidbox
 	url = https://github.com/py-lidbox/lidbox
+[submodule "trecvid-vsum"]
+	path = trecvid-vsum
+	url = https://github.com/MeMAD-project/trecvid-vsum
