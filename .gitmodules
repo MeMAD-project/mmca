@@ -106,3 +106,6 @@
 [submodule "ZeSTE"]
 	path = ZeSTE
 	url = https://github.com/D2KLab/ZeSTE
+[submodule "sparql-transformer"]
+	path = sparql-transformer
+	url = https://github.com/D2KLab/sparql-transformer
