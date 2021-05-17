@@ -109,3 +109,6 @@
 [submodule "sparql-transformer"]
 	path = sparql-transformer
 	url = https://github.com/D2KLab/sparql-transformer
+[submodule "GraphNER"]
+	path = GraphNER
+	url = https://github.com/D2KLab/GraphNER
