@@ -103,3 +103,6 @@
 [submodule "trecvid-vsum"]
 	path = trecvid-vsum
 	url = https://github.com/MeMAD-project/trecvid-vsum
+[submodule "ZeSTE"]
+	path = ZeSTE
+	url = https://github.com/D2KLab/ZeSTE
